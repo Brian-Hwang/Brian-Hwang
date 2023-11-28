@@ -81,7 +81,3 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 
 </p>
-
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Brian-Hwang&show_icons=true"/>
