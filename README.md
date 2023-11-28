@@ -56,7 +56,7 @@
   
 </p>
 
-<!-- Web and App Technologies -->
+<!-- App and Web and App Technologies -->
 <h4>Web Technologies</h4>
 <p>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
