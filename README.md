@@ -32,9 +32,16 @@
 <!-- Cloud Computing and Networking -->
 <h4>Cloud Computing & Networking</h4>
 <p>
-  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat&logo=Cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux/Unix-000000?style=flat&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat&logo=icloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking_Systems-FF6F00?style=flat&logo=Cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Virtualization-0078D6?style=flat&logo=VMware&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Network_Drivers-009688?style=flat&logo=Network-Drivers&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DPDK-FCC624?style=flat&logo=DPDK&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SR~IOV-FF5722?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDMA-607D8B?style=flat&logo=RDMA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eBPF-673AB7?style=flat&logo=eBPF&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-00BCD4?style=flat&logo=gRPC&logoColor=white"/>
 </p>
 
 <!-- Programming Languages -->
@@ -46,13 +53,17 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  
 </p>
 
-<!-- Web Technologies -->
+<!-- Web and App Technologies -->
 <h4>Web Technologies</h4>
 <p>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+
 </p>
 
 <!-- Database Management -->
@@ -67,7 +78,10 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+
 </p>
+
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Brian-Hwang&show_icons=true&theme=tokyonight"/>
