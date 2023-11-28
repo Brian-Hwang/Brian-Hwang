@@ -20,17 +20,12 @@
 
 <h2>👋 Hello, I'm Brian Hwang! 🌟</h2>
 <p>
-  I am currently pursuing my Master's degree in Computer Science at Sungkyunkwan University, where I am deeply involved in advancing my knowledge and skills in Cloud Computing, Networking Systems, and Virtualization Technologies. My academic journey is complemented by a strong passion for exploring innovative technological solutions in these areas.
+  👨‍🎓 Master's student in Computer Science at Sungkyunkwan University, specializing in Cloud Computing and Networking. 
+  </p>
+  <p>
+  🛠️ Passionate about innovative tech solutions, open-source projects, and collaborative learning. Let's connect and create!
 </p>
-<p>
-  My interest in technology extends beyond the classroom. I actively engage in various projects ranging from network performance optimization to the development of healthcare applications, always seeking to apply theoretical concepts in practical, real-world scenarios. I believe in the power of technology to transform lives and am constantly looking for opportunities to innovate and collaborate.
-</p>
-<p>
-  When I'm not coding or studying, I love to contribute to open-source projects and engage with the tech community. Feel free to browse through my repositories to see a blend of my academic pursuits and personal interests in technology.
-</p>
-<p>
-  Let's connect! I'm open to collaborations, discussions, and opportunities to learn and grow together in this ever-evolving field of computer science.
-</p>
+
 
 <!-- Tech Stack Section -->
 <h3>🚀 Tech Stack 🚀</h3>
