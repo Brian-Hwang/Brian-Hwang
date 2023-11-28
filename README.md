@@ -1,4 +1,5 @@
-### Hi there 👋
+
+Hi there 👋👋 I'm Brian Hwang, a passionate computer science enthusiast and a Master's student at Sungkyunkwan University. With a strong background in cloud computing, networking systems, and virtualization technologies, I love exploring new tech and solving complex problems. Check out my projects which range from network performance optimization tools to innovative healthcare apps. Let's connect and collaborate!
 <div align=center>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBrian-Hwang%2Fhit-counter&count_bg=%238392E0&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=Hit+Like%21&edge_flat=false)](https://hits.seeyoufarm.com)
